@@ -1,7 +1,7 @@
 # **TDD e Java: Testes automatizados com JUnit**
 
 ---
-### Faça esse curso de Angular e:
+### Faça esse curso de Testes em Java e:
 
 - Entenda a importância de escrever testes automatizados em uma aplicação
 - Conheça o JUnit, principal biblioteca para testes automatizados em Java
